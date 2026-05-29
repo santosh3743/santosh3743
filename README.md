@@ -27,32 +27,24 @@ What I think about a lot:
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Latest projects I've committed to
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/santosh3743/stackhealth">stackhealth</a></h4>
-      <p>The open code health benchmark. Paste any public GitHub URL → letter grade (A+ to F) across Security · Quality · Hygiene · Community. Fully open formula, 7 scoring engines, free forever for public repos.</p>
-      <p><sub><code>Python</code> · <code>FastAPI</code> · <code>Next.js</code> · <code>Postgres</code> · <code>RQ</code></sub></p>
+      <h4>🤖 <a href="https://github.com/securezeron/zeron-agent-development-kit">securezeron / ZAK</a></h4>
+      <p>Zeron Agentic Kit — open-source ADK for building, deploying, and governing autonomous cybersecurity agents. Agents, tools, policies, HITL, audit.</p>
+      <p><sub><code>Python</code> · <code>LLM agents</code> · <code>governance</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://zeron.one">Zeron Platform</a></h4>
-      <p>Unified cyber risk: Conformity (GRC), Vendor Pulse (TPRM), Externo (EASM), Cyber Navigator (CRQ), Interno (AI Command Center), and ZIN AI — a centralized AI gateway for all product agents.</p>
-      <p><sub><code>Python</code> · <code>Go</code> · <code>TypeScript</code> · <code>LLM agents</code> · <code>HITL</code></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://cyberinfosec.substack.com/">CyberInfosec</a> 📰</h4>
-      <p>Newsletter on security engineering, risk quantification, agentic AI in defense, and the building blocks of modern cyber programs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Exploring 🔬</h4>
-      <p>CRML (cyber risk modeling DSL) · ZAK (Zeron Agentic Kit) · Tracecat · CAI · OCSF — open standards & open agents for the security stack.</p>
+      <h4>📊 <a href="https://github.com/santosh3743/stackhealth">santosh3743 / stackhealth</a></h4>
+      <p>The open code health benchmark. Paste any public GitHub URL → letter grade (A+ to F) across Security · Quality · Hygiene · Community. Open formula, 7 engines.</p>
+      <p><sub><code>Python</code> · <code>FastAPI</code> · <code>Next.js</code> · <code>Postgres</code></sub></p>
     </td>
   </tr>
 </table>
+
+> A lot of my day-to-day work happens in private repos at <a href="https://zeron.one">Zeron</a> (Conformity, Vendor Pulse, Externo, Cyber Navigator, ZIN AI). I open-source what I can.
 
 ---
 
