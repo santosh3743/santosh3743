@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Santosh 👋</h1>
 
 <p align="center">
-  <em>Builder. Security engineer. Currently shipping at <a href="https://zeron.one">Zeron</a>.</em>
+  <em>Builder. Currently shipping at <a href="https://zeron.one">Zeron</a>.</em>
 </p>
 
 <p align="center">
