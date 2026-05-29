@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://stackhealth.dev"><img alt="StackHealth" src="https://img.shields.io/badge/building-StackHealth-0ea5e9?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/santosh3743?tab=repositories"><img alt="Contributing to FOSS" src="https://img.shields.io/badge/contributing%20to-FOSS-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/></a>
   <a href="https://cyberinfosec.substack.com/"><img alt="Substack" src="https://img.shields.io/badge/writing-CyberInfosec-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
   <a href="https://x.com/santoshjha37"><img alt="X" src="https://img.shields.io/badge/-@santoshjha37-000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/santosh-kumar-jha/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
