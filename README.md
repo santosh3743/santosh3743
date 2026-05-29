@@ -15,12 +15,15 @@
 
 ### About
 
-I build things at the intersection of **cybersecurity, AI, and developer tools** — usually the kind that take a closed, opaque problem and crack it open with an open formula, an open dataset, or an open API.
+I love building things — usually at the messy intersection of **cybersecurity, AI agents, and developer tools**. I'm drawn to closed, opaque problems and like cracking them open with an open formula, an open dataset, or an open API.
 
-- 🔭 Building **[StackHealth](https://stackhealth.dev)** — the open code health benchmark. Swap `github.com` → `stackhealth.dev` on any public repo for an instant grade.
-- 🛡️ Working on **[Zeron](https://zeron.one)** — a unified cyber risk platform (GRC, TPRM, EASM, CRQ, AI copilots).
-- ✍️ Writing at **[cyberinfosec.substack.com](https://cyberinfosec.substack.com/)** about security, risk, and the agentic shift.
-- 🧠 Currently obsessed with autonomous agents for security work — and what *governance* for them actually looks like.
+What I think about a lot:
+
+- 🤖 **Autonomous agents** — designing them, governing them, and figuring out what "human-in-the-loop" actually means once they start doing real work.
+- 🛡️ **Cybersecurity & risk quantification** — GRC, TPRM, EASM, CRQ, and the slow shift from spreadsheets to systems.
+- 🧰 **Developer tools & open standards** — benchmarks, DSLs, schemas (OCSF and friends), and anything that makes a hidden thing measurable.
+- 🧪 **Open-source by default** — open formulas, open agents, open everything. If a number is going to influence a decision, it should be inspectable.
+- ✍️ **Writing** — turning what I'm learning into essays at [cyberinfosec.substack.com](https://cyberinfosec.substack.com/).
 
 ---
 
