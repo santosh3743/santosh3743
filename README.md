@@ -85,6 +85,10 @@ I build things at the intersection of **cybersecurity, AI, and developer tools**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh3743&hide_border=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img alt="Santosh's contribution heatmap" src="https://ghchart.rshah.org/2ea043/santosh3743" width="100%"/>
+</p>
+
 ---
 
 ### 📬 Get in touch
