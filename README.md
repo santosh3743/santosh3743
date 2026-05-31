@@ -131,7 +131,6 @@ patterns   = ["agents", "tool-use", "evals", "hitl"]
 ## `~ $ contact --all`
 
 ```
-web      : stackhealth.dev · zeron.one
 writing  : cyberinfosec.substack.com
 github   : @santosh3743
 x        : @santoshjha37
