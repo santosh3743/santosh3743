@@ -119,7 +119,7 @@ patterns   = ["agents", "tool-use", "evals", "hitl"]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh3743&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh3743&hide_border=true&hide_longest_streak=true&theme=tokyonight" />
 </p>
 
 <p align="center">
